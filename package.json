@@ -1,0 +1,12 @@
+{
+  "name": "minivault",
+  "version": "0.0.1",
+  "description": "A Minima Vault Safe House",
+  "main": "index.js",
+  "scripts": {
+    "build": "zip -r minivault.minidapp src/build",
+    "test": "npm test"
+  },
+  "author": "eliasnemr",
+  "license": "ISC"
+}
